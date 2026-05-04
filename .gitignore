@@ -1,0 +1,66 @@
+# Node modules
+node_modules/
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Runtime data
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# Environment variables
+.env
+.env.*
+!.env.example
+
+# Build output
+dist/
+build/
+
+# Dependency directories
+jspm_packages/
+
+# Optional npm cache directory
+.npm
+
+# Optional eslint cache
+.eslintcache
+
+# TypeScript cache
+*.tsbuildinfo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE / Editor folders
+.vscode/
+.idea/
+
+# Coverage directory used by tools like Jest
+coverage/
+
+# Temporary files
+tmp/
+temp/
+
+# Parcel / Next.js / Nuxt build outputs (if used)
+.cache/
+.next/
+.nuxt/
+
+# Mac system files
+.AppleDouble
+.LSOverride
+
+# Debug files
+*.tgz
+
+# Optional REPL history
+.node_repl_history
